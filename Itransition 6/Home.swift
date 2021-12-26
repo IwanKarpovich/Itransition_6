@@ -22,9 +22,7 @@ struct Home: View {
                         
                         
                         DrawingScreen().environmentObject(model)
-                        
-                        
-                        //                    Image(uiImage: ImageFile).resizable().aspectRatio( contentMode: .fit)
+                    
                             .toolbar(content: {
                                 ToolbarItem(placement: .navigationBarLeading) {
                                     Button(action: model.cancelImageEditing, label:{Text("Button")

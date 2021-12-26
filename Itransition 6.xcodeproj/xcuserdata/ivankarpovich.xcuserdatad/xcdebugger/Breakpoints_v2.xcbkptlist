@@ -30,9 +30,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "233"
-            endingLineNumber = "233"
-            landmarkName = "reTake()"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "takePic()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -46,9 +46,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "234"
-            endingLineNumber = "234"
-            landmarkName = "reTake()"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "takePic()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -62,9 +62,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "232"
-            endingLineNumber = "232"
-            landmarkName = "reTake()"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "takePic()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -78,10 +78,10 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "237"
-            endingLineNumber = "237"
-            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
-            landmarkType = "7">
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "CameraModel"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -94,9 +94,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "238"
-            endingLineNumber = "238"
-            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "reTake()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -110,9 +110,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "239"
-            endingLineNumber = "239"
-            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "reTake()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -126,9 +126,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "241"
-            endingLineNumber = "241"
-            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "reTake()"
             landmarkType = "7">
             <Locations>
                <Location
@@ -174,9 +174,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "242"
-            endingLineNumber = "242"
-            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "reTake()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -190,9 +190,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "251"
-            endingLineNumber = "251"
-            landmarkName = "savePic()"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -206,9 +206,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "250"
-            endingLineNumber = "250"
-            landmarkName = "savePic()"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -222,9 +222,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "248"
-            endingLineNumber = "248"
-            landmarkName = "savePic()"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -238,9 +238,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "247"
-            endingLineNumber = "247"
-            landmarkName = "savePic()"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -254,9 +254,9 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "245"
-            endingLineNumber = "245"
-            landmarkName = "savePic()"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -270,26 +270,10 @@
             filePath = "Itransition 6/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "246"
-            endingLineNumber = "246"
-            landmarkName = "savePic()"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E46B39DB-E949-4E6D-8DE8-44C4A2971E68"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Itransition 6/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "210"
-            endingLineNumber = "210"
-            landmarkName = "CameraModel"
-            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

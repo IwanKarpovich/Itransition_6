@@ -51,7 +51,7 @@ struct DrawingScreen: View {
                                 }))
                                 .onLongPressGesture{
                                     model.toolPicker.setVisible(false, forFirstResponder: model.canvas)
-                                    model.canvas.restorationIdentifier
+                 
                                     model.currentIndex = getIndex(textBox: box)
                                     withAnimation{
                                         model.addNewBox = true

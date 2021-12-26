@@ -78,21 +78,7 @@ struct CameraView: View {
                             .sheet(isPresented: $showingDetail){Home()}
                         Spacer()
                         
-                        //                        Button(action:{
-                        //                            if !camera.isSaved{
-                        //                                camera.savePic()
-                        //                            }
-                        //
-                        //                        }, label:{
-                        //                            Text(camera.isSaved ? "Saved" : "Save").foregroundColor(.black)
-                        //                                .fontWeight(.semibold)
-                        //                                .padding(.vertical,10)
-                        //                                .padding(.horizontal, 20)
-                        //                                .background(Color.white)
-                        //                                .clipShape(Capsule())
-                        //                        })
-                        //                            .padding(.leading)
-                        //                        Spacer()
+
                     }
                     
                     else{
@@ -172,12 +158,6 @@ class CameraModel: NSObject,ObservableObject, AVCapturePhotoCaptureDelegate {
             
             self.session.beginConfiguration()
             
-            //            let da = AVCaptureDevice.DiscoverySession(deviceTypes: [.builtInWideAngleCamera], mediaType: AVMediaType.video, position: .back)
-            //            guard let captureDevice = da.devices.first else {
-            //                print("Failed to get the camera device")
-            //                return
-            //            }
-            
             let device = AVCaptureDevice.default(.builtInWideAngleCamera, for: .video, position: .back)
             
             let input = try AVCaptureDeviceInput(device: device!)
@@ -202,14 +182,6 @@ class CameraModel: NSObject,ObservableObject, AVCapturePhotoCaptureDelegate {
         
     }
     
-    //    func takePic(){
-    //
-    //
-    //        self.output.capturePhoto(with: AVCapturePhotoSettings(), delegate:self)
-    //        self.session.stopRunning()
-    //        withAnimation{self.isTaken.toggle()}
-    //
-    //    }
     
     func takePic(){
         DispatchQueue.global(qos: .background).async {
