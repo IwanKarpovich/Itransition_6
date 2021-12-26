@@ -8,12 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		4D26C3C827765EC900F16D70 /* Itransition_6App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3C727765EC900F16D70 /* Itransition_6App.swift */; };
-		4D26C3CA27765EC900F16D70 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3C927765EC900F16D70 /* ContentView.swift */; };
 		4D26C3CC27765ECB00F16D70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D26C3CB27765ECB00F16D70 /* Assets.xcassets */; };
 		4D26C3CF27765ECB00F16D70 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D26C3CE27765ECB00F16D70 /* Preview Assets.xcassets */; };
 		4D26C3D927765ECB00F16D70 /* Itransition_6Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3D827765ECB00F16D70 /* Itransition_6Tests.swift */; };
 		4D26C3E327765ECB00F16D70 /* Itransition_6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3E227765ECB00F16D70 /* Itransition_6UITests.swift */; };
 		4D26C3E527765ECB00F16D70 /* Itransition_6UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3E427765ECB00F16D70 /* Itransition_6UITestsLaunchTests.swift */; };
+		4D26C3F227765EEB00F16D70 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3F127765EEB00F16D70 /* Home.swift */; };
+		4D26C3F427765F3E00F16D70 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3F327765F3E00F16D70 /* ImagePicker.swift */; };
+		4D26C3F62776621900F16D70 /* DrawingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D26C3F52776621900F16D70 /* DrawingViewModel.swift */; };
+		4D27B61027772819006FE691 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D27B60F27772819006FE691 /* ContentView.swift */; };
+		4D64C7692776739F00D2734E /* DrawingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D64C7682776739F00D2734E /* DrawingScreen.swift */; };
+		4D64C76B277685A200D2734E /* TextBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D64C76A277685A200D2734E /* TextBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +39,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D11B9032777F89900E50489 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4D26C3C427765EC900F16D70 /* Itransition 6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Itransition 6.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D26C3C727765EC900F16D70 /* Itransition_6App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Itransition_6App.swift; sourceTree = "<group>"; };
-		4D26C3C927765EC900F16D70 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D26C3CB27765ECB00F16D70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D26C3CE27765ECB00F16D70 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4D26C3D427765ECB00F16D70 /* Itransition 6Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Itransition 6Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +49,12 @@
 		4D26C3DE27765ECB00F16D70 /* Itransition 6UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Itransition 6UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D26C3E227765ECB00F16D70 /* Itransition_6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Itransition_6UITests.swift; sourceTree = "<group>"; };
 		4D26C3E427765ECB00F16D70 /* Itransition_6UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Itransition_6UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4D26C3F127765EEB00F16D70 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		4D26C3F327765F3E00F16D70 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		4D26C3F52776621900F16D70 /* DrawingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingViewModel.swift; sourceTree = "<group>"; };
+		4D27B60F27772819006FE691 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4D64C7682776739F00D2734E /* DrawingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingScreen.swift; sourceTree = "<group>"; };
+		4D64C76A277685A200D2734E /* TextBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +85,7 @@
 		4D26C3BB27765EC900F16D70 = {
 			isa = PBXGroup;
 			children = (
+				4D11B9032777F89900E50489 /* README.md */,
 				4D26C3C627765EC900F16D70 /* Itransition 6 */,
 				4D26C3D727765ECB00F16D70 /* Itransition 6Tests */,
 				4D26C3E127765ECB00F16D70 /* Itransition 6UITests */,
@@ -95,7 +107,9 @@
 			isa = PBXGroup;
 			children = (
 				4D26C3C727765EC900F16D70 /* Itransition_6App.swift */,
-				4D26C3C927765EC900F16D70 /* ContentView.swift */,
+				4D27B60C27772657006FE691 /* ViewModel */,
+				4D27B60E277726CA006FE691 /* Model */,
+				4D27B60D27772684006FE691 /* View */,
 				4D26C3CB27765ECB00F16D70 /* Assets.xcassets */,
 				4D26C3CD27765ECB00F16D70 /* Preview Content */,
 			);
@@ -125,6 +139,33 @@
 				4D26C3E427765ECB00F16D70 /* Itransition_6UITestsLaunchTests.swift */,
 			);
 			path = "Itransition 6UITests";
+			sourceTree = "<group>";
+		};
+		4D27B60C27772657006FE691 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				4D26C3F52776621900F16D70 /* DrawingViewModel.swift */,
+			);
+			name = ViewModel;
+			sourceTree = "<group>";
+		};
+		4D27B60D27772684006FE691 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				4D26C3F127765EEB00F16D70 /* Home.swift */,
+				4D26C3F327765F3E00F16D70 /* ImagePicker.swift */,
+				4D64C7682776739F00D2734E /* DrawingScreen.swift */,
+				4D27B60F27772819006FE691 /* ContentView.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		4D27B60E277726CA006FE691 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4D64C76A277685A200D2734E /* TextBox.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +298,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D26C3CA27765EC900F16D70 /* ContentView.swift in Sources */,
+				4D26C3F427765F3E00F16D70 /* ImagePicker.swift in Sources */,
+				4D64C7692776739F00D2734E /* DrawingScreen.swift in Sources */,
+				4D27B61027772819006FE691 /* ContentView.swift in Sources */,
+				4D26C3F62776621900F16D70 /* DrawingViewModel.swift in Sources */,
+				4D26C3F227765EEB00F16D70 /* Home.swift in Sources */,
+				4D64C76B277685A200D2734E /* TextBox.swift in Sources */,
 				4D26C3C827765EC900F16D70 /* Itransition_6App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -419,13 +465,17 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Itransition 6/Preview Content\"";
+				DEVELOPMENT_TEAM = XG46FRJ36M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -447,13 +497,17 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Itransition 6/Preview Content\"";
+				DEVELOPMENT_TEAM = XG46FRJ36M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
